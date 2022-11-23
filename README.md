@@ -20,7 +20,6 @@ Combine o tempo que você acha necessário com o recrutador. Faça com calma.
 * Utilizar Kotlin;
 * Seguir o wireframe disponibilizado;
 * Consumir API do Github(https://docs.github.com);
-* Utilizar Coroutines.
 
 # Desejável
 * Testes unitários;
@@ -32,6 +31,7 @@ Combine o tempo que você acha necessário com o recrutador. Faça com calma.
 * Todas as telas terão botão de favoritar/desfavoritar;
 * Fazer cache dos dados;
 * Testes instrumentados;
+* Ser acessível(https://developer.android.com/guide/topics/ui/accessibility)
 
 # Orientações
 * Fique a vontade para usar qualquer biblioteca;
