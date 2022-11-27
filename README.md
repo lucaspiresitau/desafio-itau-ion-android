@@ -8,7 +8,7 @@ Desafio consiste em consumir a API do Gitub para listar os usuários.
 Combine o tempo que você acha necessário com o recrutador. Faça com calma.
 
 # Wireframe
-![0](https://user-images.githubusercontent.com/28274755/203342898-98b86ef2-b519-48d6-9178-a6126c0b43a7.png)
+![203342898-98b86ef2-b519-48d6-9178-a6126c0b43a7](https://user-images.githubusercontent.com/118839958/204152757-365f2226-8800-4681-80f6-40e2c76ac46b.png)
 
 # Features
 * Página inicial(Usuários) fazer busca na API do GitHub com paginação;
